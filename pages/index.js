@@ -6,7 +6,7 @@
 * 
 * Name: Mirim Kim    Student ID: 158431197   Date: 2022-12-01
 *
-* Vercel App (Deployed) Link: 
+* Vercel App (Deployed) Link: https://my-app-delta-gold.vercel.app/
 *
 ********************************************************************************/
 
