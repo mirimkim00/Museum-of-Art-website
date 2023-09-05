@@ -1,8 +1,8 @@
 You can visit [https://my-app-delta-gold.vercel.app/](https://my-app-delta-gold.vercel.app/).
 
-User: user1
+User: `user1`
 
-Password: Password123!
+Password: `Password123!`
 
 ----------------------------------------
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
