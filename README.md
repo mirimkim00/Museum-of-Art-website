@@ -1,4 +1,4 @@
-You can visit [https://my-app-delta-gold.vercel.app/](https://my-app-delta-gold.vercel.app/).
+You can visit [https://my-app-delta-gold.vercel.app/](https://my-app-delta-gold.vercel.app/)
 
 User: `user1`
 
