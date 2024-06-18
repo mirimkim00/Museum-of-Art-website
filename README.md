@@ -5,7 +5,7 @@ This is a museum of art website where users can search for artworks, including a
 It was developed using [React](https://react.dev/) and [Next.js](https://nextjs.org/). It is deployed on [Vercel](https://vercel.com/).
 
 >NOTE:
-> As [Cyclic is shutting down](https://www.cyclic.sh/posts/cyclic-is-shutting-down/) their service, login and registration _don't_ work _temporarily_.
+> As [Cyclic is shutting down](https://www.cyclic.sh/posts/cyclic-is-shutting-down/) their service, login and registration don't work temporarily.
 
 ## Demo Link
 You can explore the website by clicking on [Museum of Art](https://my-app-delta-gold.vercel.app/).
